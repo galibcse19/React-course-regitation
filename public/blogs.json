@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://as1.ftcdn.net/v2/jpg/05/71/06/76/1000_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg",
+    "title": "CyberSec Pro Suite",
+    "description": "Empower your business with the ultimate cybersecurity solution. Our CyberSec Pro Suite offers advanced threat.",
+    "price": 100,
+    "credit_hour": 4
+  },
+  {
+    "id": 2,
+    "image": "https://as1.ftcdn.net/v2/jpg/05/68/49/90/1000_F_568499083_q9QfafI1PkGJA8QQMIpiTT557xUUJ4Qq.jpg",
+    "title": "DataForge Platform",
+    "description": "Empower your business with the ultimate cybersecurity solution. Our CyberSec Pro Suite offers advanced threat.",
+    "price": 150,
+    "credit_hour": 3
+  },
+  {
+    "id": 3,
+    "image": "https://as2.ftcdn.net/v2/jpg/06/29/35/69/1000_F_629356922_KB0F6hwZpSItiNyolBXflK2rb46iaeBx.jpg",
+    "title": "Quantum Computing",
+    "description": "Empower your business with the ultimate cybersecurity solution. Our CyberSec Pro Suite offers advanced threat.",
+    "price": 200,
+    "credit_hour": 4
+  },
+  {
+    "id": 4,
+    "image": "https://as1.ftcdn.net/v2/jpg/05/68/49/90/1000_F_568499083_q9QfafI1PkGJA8QQMIpiTT557xUUJ4Qq.jpg",
+    "title": "AI Dynamics Platform",
+    "description": "Empower your business with the ultimate cybersecurity solution. Our CyberSec Pro Suite offers advanced threat.",
+    "price": 130,
+    "credit_hour": 5
+  },
+  {
+    "id": 5,
+    "image": "https://as2.ftcdn.net/v2/jpg/06/29/35/69/1000_F_629356922_KB0F6hwZpSItiNyolBXflK2rb46iaeBx.jpg",
+    "title": "VirtualScape Experience",
+    "description": "Empower your business with the ultimate cybersecurity solution. Our CyberSec Pro Suite offers advanced threat.",
+    "price": 80,
+    "credit_hour": 6
+  },
+  {
+    "id": 6,
+    "image": "https://as1.ftcdn.net/v2/jpg/05/71/06/76/1000_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg",
+    "title": "IoT Nexus Hub",
+    "description": "Empower your business with the ultimate cybersecurity solution. Our CyberSec Pro Suite offers advanced threat.",
+    "price": 100,
+    "credit_hour": 3
+  },
+  {
+    "id": 7,
+    "image": "https://as2.ftcdn.net/v2/jpg/06/29/35/69/1000_F_629356922_KB0F6hwZpSItiNyolBXflK2rb46iaeBx.jpg",
+    "title": "CloudWorks Enterprise",
+    "description": "Empower your business with the ultimate cybersecurity solution. Our CyberSec Pro Suite offers advanced threat.",
+    "price": 250,
+    "credit_hour": 4
+  },
+  {
+    "id": 8,
+    "image": "https://as1.ftcdn.net/v2/jpg/05/71/06/76/1000_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg",
+    "title": "Automation System",
+    "description": "Empower your business with the ultimate cybersecurity solution. Our CyberSec Pro Suite offers advanced threat.",
+    "price": 150,
+    "credit_hour": 3
+  },
+  {
+    "id": 9,
+    "image": "https://as1.ftcdn.net/v2/jpg/05/68/49/90/1000_F_568499083_q9QfafI1PkGJA8QQMIpiTT557xUUJ4Qq.jpg",
+    "title": "SmartTech Automation",
+    "description": "Empower your business with the ultimate cybersecurity solution. Our CyberSec Pro Suite offers advanced threat.",
+    "price": 100,
+    "credit_hour": 2
+  }
+]
